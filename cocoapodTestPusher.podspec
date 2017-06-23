@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'cocoapodTestPusher'
-  s.version          = '0.1.0'
+  s.version          = '0.2.0'
   s.summary          = 'This is a test cocoapod project.'
   s.homepage         = 'https://github.com/vishnuprasannan333/cocoapodTestPusher'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
